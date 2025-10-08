@@ -11,14 +11,10 @@
             "id": "25cb7f81847716d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "あか.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "あか"
+              "title": "新規タブ"
             }
           }
         ]
