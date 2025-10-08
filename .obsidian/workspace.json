@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Daily/2025-10-08.md",
+                "file": "02_Daily/2025-10-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-08"
+              "title": "2025-10-09"
             }
           }
         ]
@@ -225,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86b9fe0826323c61",
+  "active": "4f151c0ab1a20f1b",
   "lastOpenFiles": [
-    "01_Inbox/無題のファイル.base",
     "02_Daily/2025-10-08.md",
+    "02_Daily/2025-10-09.md",
+    "01_Inbox/無題のファイル.base",
     "04_Templates/Daily.md",
     "02_Daily/2025-10-5.md",
     "01_Inbox/無題のファイル.md",
