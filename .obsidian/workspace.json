@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "498a03db5981734b",
+        "id": "b69201d7f3cc0335",
         "type": "tabs",
         "children": [
           {
-            "id": "661aa497ba2794e7",
+            "id": "4f151c0ab1a20f1b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Inbox/メルカリであらゆるものを売ろう.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "メルカリであらゆるものを売ろうのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -195,8 +194,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -221,8 +220,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a1ab9936c7dd36a",
+  "active": "4f151c0ab1a20f1b",
   "lastOpenFiles": [
+    "01_Inbox/無題のファイル.base",
     "02_Daily/2025-10-08.md",
     "04_Templates/Daily.md",
     "02_Daily/2025-10-5.md",
@@ -231,7 +231,6 @@
     "02_Daily/2025-10-04.md",
     "02_Daily/2025-09-24.md",
     "01_Inbox/出会い系のアイデア.md",
-    "01_Inbox/無題のファイル.base",
     "02_Daily/2025-09-10.md",
     "02_Daily/2025-08-21.md",
     "02_Daily/2025-08-20.md",
@@ -249,7 +248,6 @@
     "98_宅建/免許更新組(9,3)は申請期間を忘れずに.md",
     "98_宅建/本店と支店が県をまたぐ場合の免許の種類.md",
     "98_宅建/宅建業の「免許」は事務所の場所によって2種類に分かれる.md",
-    "98_宅建/県知事免許.md",
     "98_宅建",
     "03_Extra/enneagram4.png",
     "03_Extra/エニアグラムの図.webp",
