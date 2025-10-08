@@ -11,10 +11,15 @@
             "id": "4f151c0ab1a20f1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2025-10-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2025-10-08"
             }
           }
         ]
@@ -199,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f151c0ab1a20f1b",
+  "active": "86b9fe0826323c61",
   "lastOpenFiles": [
     "01_Inbox/無題のファイル.base",
     "02_Daily/2025-10-08.md",
