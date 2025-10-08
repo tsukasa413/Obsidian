@@ -11,10 +11,14 @@
             "id": "25cb7f81847716d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ゆう.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "ゆう"
             }
           }
         ]
@@ -148,8 +152,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25cb7f81847716d3",
+  "active": "ff77eefe43c795d2",
   "lastOpenFiles": [
+    "ゆう.md",
     "Viewer.md",
     "README.md",
     "99_エニアグラム/本能センターは「怒り」が中心.md",
@@ -175,7 +180,6 @@
     "98_宅建/宅建業法.md",
     "98_宅建/宅建業の取引とは「売買」「交換」「貸借」.md",
     "98_宅建/宅建業の「免許」は事務所の場所によって2種類に分かれる.md",
-    "98_宅建/宅建建物取引士.md",
     "03_Extra/enneagram_graf.gif",
     "03_Extra/enneagram4.png",
     "99_エニアグラム",
