@@ -11,10 +11,14 @@
             "id": "25cb7f81847716d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "あか.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "あか"
             }
           }
         ]
@@ -150,6 +154,7 @@
   },
   "active": "25cb7f81847716d3",
   "lastOpenFiles": [
+    "あか.md",
     "ゆう.md",
     "Viewer.md",
     "README.md",
@@ -175,7 +180,6 @@
     "98_宅建/宅建業者名簿の登載事項.md",
     "98_宅建/宅建業法.md",
     "98_宅建/宅建業の取引とは「売買」「交換」「貸借」.md",
-    "98_宅建/宅建業の「免許」は事務所の場所によって2種類に分かれる.md",
     "03_Extra/enneagram_graf.gif",
     "03_Extra/enneagram4.png",
     "99_エニアグラム",
