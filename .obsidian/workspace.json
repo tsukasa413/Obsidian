@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "5e46d5d5ef30beca",
+    "type": "split",
+    "children": [
+      {
+        "id": "53eb80f3b5f3af50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b4e57d7def5b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Templates/Daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc9f7da21a568c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "2487bd3e34c146d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a75e620bd1824e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "3957326d337b3014",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "2cadff9935675d4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "d045c72d20048c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b4c0c0818594a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d56fe0e9fbff98c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "f4d3ba0c232bb161",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "42cfcec9604f9da9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "82f44c7276b048ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9122c504617b0a13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Inbox/メルカリであらゆるものを売ろう.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "メルカリであらゆるものを売ろうのアウトライン"
+            }
+          },
+          {
+            "id": "9b5e126251dc37a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "7a1ab9936c7dd36a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "file-properties"
+            }
+          },
+          {
+            "id": "cea8896318e6d1ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "86b9fe0826323c61",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "44b4e57d7def5b65",
+  "lastOpenFiles": [
+    "02_Daily/2025-10-08.md",
+    "02_Daily/2025-10-5.md",
+    "01_Inbox/無題のファイル.md",
+    "01_Inbox/SPAJAM.md",
+    "02_Daily/2025-10-04.md",
+    "02_Daily/2025-09-24.md",
+    "01_Inbox/出会い系のアイデア.md",
+    "01_Inbox/無題のファイル.base",
+    "02_Daily/2025-09-10.md",
+    "02_Daily/2025-08-21.md",
+    "02_Daily/2025-08-20.md",
+    "02_Daily/2025-08-16.md",
+    "02_Daily/2025-08-15.md",
+    "04_Templates/Daily.md",
+    "02_Daily/2025-08-14.md",
+    "98_宅建/一定の刑罰に処された人は5年免許を受けれない.md",
+    "98_宅建/心身の故障とか破産者は免許受けることができない.md",
+    "98_宅建/廃業などの届け出.md",
+    "98_宅建/免許換えによる免許の有効期間.md",
+    "98_宅建/宅建建物取引士.md",
+    "98_宅建/宅建業者名簿の登載事項.md",
+    "98_宅建/宅建業者名簿の登載事項に変更があったら30日以内.md",
+    "98_宅建/免許の種類変えることできるんよ.md",
+    "98_宅建/免許更新組(9,3)は申請期間を忘れずに.md",
+    "98_宅建/本店と支店が県をまたぐ場合の免許の種類.md",
+    "98_宅建/宅建業の「免許」は事務所の場所によって2種類に分かれる.md",
+    "98_宅建/県知事免許.md",
+    "98_宅建",
+    "03_Extra/enneagram4.png",
+    "03_Extra/エニアグラムの図.webp",
+    "03_Extra/enneagram_graf.gif",
+    "03_Extra/enneagram_type_2.gif",
+    "03_Extra/Unconfirmed 640071.crdownload",
+    "03_Extra/Unconfirmed 681534.crdownload",
+    "03_Extra/Unconfirmed 465036.crdownload",
+    "03_Extra/Unconfirmed 354463.crdownload",
+    "03_Extra/エニアグラムの図.jpg",
+    "03_Extra/Unconfirmed 15884.crdownload",
+    "03_Extra/Unconfirmed 883479.crdownload",
+    "99_エニアグラム",
+    "06_エニアグラム"
+  ]
+}
