@@ -167,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Inbox/ホラーゲーム.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "ホラーゲームのアウトライン"
             }
           },
           {
@@ -220,12 +221,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "987295809c51c2f1",
+  "active": "9122c504617b0a13",
   "lastOpenFiles": [
     "02_Daily/2025-10-10.md",
     "01_Inbox/ホラーゲーム.md",
