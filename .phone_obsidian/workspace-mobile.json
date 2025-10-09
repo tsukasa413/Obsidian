@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/etcフォルダって何.md",
+                "file": "04_Templates/Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "etcフォルダって何"
+              "title": "Daily"
             }
           }
         ]
@@ -154,6 +154,9 @@
   },
   "active": "25cb7f81847716d3",
   "lastOpenFiles": [
+    "03_Extra/enneagram_graf.gif",
+    "04_Templates/Daily.md",
+    "01_Inbox/etcフォルダって何.md",
     "02_Daily/2025-10-09.md",
     "あか.md",
     "ゆう.md",
@@ -177,10 +180,6 @@
     "98_宅建/心身の故障とか破産者は免許受けることができない.md",
     "98_宅建/建物とは「屋根と柱がある工作物」.md",
     "98_宅建/廃業などの届け出.md",
-    "98_宅建/宅建業者名簿の登載事項に変更があったら30日以内.md",
-    "98_宅建/宅建業者名簿の登載事項.md",
-    "98_宅建/宅建業法.md",
-    "03_Extra/enneagram_graf.gif",
     "03_Extra/enneagram4.png",
     "99_エニアグラム",
     "98_宅建",

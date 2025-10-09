@@ -2,8 +2,9 @@
 tags:
   - Daily
 ---
-# タスク
+# task
 - [ ] 
-# 成果
+# diary
+
 
 
